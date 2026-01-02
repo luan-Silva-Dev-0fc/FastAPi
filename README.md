@@ -99,6 +99,4 @@ O FastAPI fornece interfaces visuais para testar a API sem precisar de ferrament
 
 ---
 
-## 📝 Notas
 
-* Certifique-se de
